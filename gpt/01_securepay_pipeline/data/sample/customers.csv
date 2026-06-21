@@ -1,0 +1,6 @@
+cust_id,customer_name,country,tier
+C001,Alice Smith,US,premium
+C002,Bob Johnson,UK,standard
+C003,Carla Gomez,ES,premium
+C004,Dmytro Bondar,UA,standard
+C005,Emma Brown,DE,basic

@@ -63,18 +63,23 @@ logs/
 # =========================
 # Data files
 # =========================
-# Raw/private data should not be committed by default.
+# Raw/private/generated data should not be committed by default.
 # Keep small public sample files in data/sample/.
-data/raw/
-data/processed/
-data/quarantine/
-data/output/
+
+**/data/raw/*
+**/data/processed/*
+**/data/quarantine/*
+**/data/output/*
 
 # Keep directory structure
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/quarantine/.gitkeep
-!data/output/.gitkeep
+!**/data/raw/.gitkeep
+!**/data/processed/.gitkeep
+!**/data/quarantine/.gitkeep
+!**/data/output/.gitkeep
+
+# Allow public sample datasets
+!**/data/sample/
+!**/data/sample/**
 
 # =========================
 # Project-specific generated files
