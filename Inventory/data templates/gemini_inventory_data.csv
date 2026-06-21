@@ -1,0 +1,41 @@
+item_id,product_name,category,price,stock_count,last_restock_date,supplier_contact
+101,Laptop - Pro 15,Electronics,1200,15,2023-01-15,supp1@email.com
+102,Wireless Mouse,Accessories,25.99,140,2023-02-10,supp2@email.com
+103,Monitor 4K,,350.0,8,2023-01-20,supp1@email.com
+104,Mechanical Keyboard,Accessories,120,not_available,2023-03-01,supp3@email.com
+105,USB-C Hub,Accessories,45,200,2022-12-15,supp2@email.com
+106,Laptop - Pro 15,Electronics,1200,15,2023-01-15,supp1@email.com
+107,Gaming Chair,Furniture,299,5,2023-04-12,supp4@email.com
+108,External Hard Drive,Storage,89.5,45,2023-02-28,supp3@email.com
+109,Monitor 4K,Electronics,350,,2023-01-20,supp1@email.com
+110,Desk Lamp,Furniture,15.75,30,2023-05-01,supp4@email.com
+111,Webcam HD,Electronics,N/A,12,2023-03-15,supp5@email.com
+112,Bluetooth Speaker,Electronics,55,18,2023-01-10,supp5@email.com
+113,Mouse Pad,Accessories,10.0,100,2023-06-01,supp2@email.com
+114,LAPTOP - PRO 15,Electronics,1200,5,2023-01-15,supp1@email.com
+115,Smartphone X,Electronics,999,0,2023-07-20,supp5@email.com
+116,Office Desk,Furniture,450.0,3,2023-02-14,supp4@email.com
+117,Table 10,Electronics,300,22,2023-03-22,supp5@email.com
+118,Headphones,Accessories,85,15,2023-04-05,supp2@email.com
+119,Power Bank,Electronics,40,50,2023-05-15,supp3@email.com
+120,HDMI Cable,Accessories,12,300,2023-06-10,supp2@email.com
+121,Wireless Mouse,Accessories,25.99,140,2023-02-10,supp2@email.com
+122,Monitor 4K,Electronics,350,8,2023-01-20,supp1@email.com
+123,Smartwatch,Electronics,199,12,2023-07-01,supp5@email.com
+124,Router Wi-Fi 6,Electronics,150,10,2023-06-25,supp3@email.com
+125,Paper Shredder,Office,80,4,2023-04-18,supp4@email.com
+126,Laptop Slim,Electronics,850.5,7,2023-02-10,supp1@email.com
+127,E-reader,Electronics,129.99,25,2023-03-05,supp5@email.com
+128,Standing Desk,Furniture,600,2,2023-05-20,supp4@email.com
+129,Microphone,Accessories,75,14,2023-06-15,supp3@email.com
+130,Laptop - Pro 15,Electronics,1200,15,2023-01-15,supp1@email.com
+131,Cooling Pad,Accessories,25,30,2023-02-12,supp2@email.com
+132,Printer Ink,Office,45.5,60,2023-07-10,supp4@email.com
+133,Graphic Tablet,Electronics,250,9,2023-01-05,supp1@email.com
+134,VR Headset,Electronics,400.0,0,2023-04-30,supp5@email.com
+135,Gaming Mouse,Accessories,65,25,2023-05-12,supp2@email.com
+136,DDR4 RAM 16GB,Components,80,40,2023-06-20,supp3@email.com
+137,SSD 1TB,Components,110,35,2023-03-18,supp3@email.com
+138,CPU Cooler,Components,45,20,2023-02-25,supp3@email.com
+139,Case Fan,Components,15,100,2023-01-12,supp3@email.com
+140,Power Supply 750W,Components,130,12,2023-04-02,supp3@email.com

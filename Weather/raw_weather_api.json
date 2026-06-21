@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "metadata": {
+    "generated_at": "2026-02-11T10:00:00Z",
+    "api_version": "v2.1"
+  },
+  "data": [
+    {
+      "city": "London",
+      "coordinates": {
+        "lat": 51.5074,
+        "lon": -0.1278
+      },
+      "measurements": [
+        {
+          "type": "temp",
+          "value": 12,
+          "unit": "C"
+        },
+        {
+          "type": "humidity",
+          "value": 82,
+          "unit": "%"
+        }
+      ]
+    },
+    {
+      "city": "New York",
+      "coordinates": {
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "measurements": [
+        {
+          "type": "temp",
+          "value": 54,
+          "unit": "F"
+        },
+        {
+          "type": "humidity",
+          "value": 60,
+          "unit": "%"
+        }
+      ]
+    }
+  ]
+}

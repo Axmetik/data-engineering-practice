@@ -1,0 +1,8 @@
+event_id,uid,info,ts,action,page,amount,code
+evt_001,1,"{""action"": ""click"", ""page"": ""home""}",2026-02-07 10:00:00,click,home,,
+evt_002,2,"{""action"": ""view"", ""page"": ""pricing""}",2026-02-07 10:10:00,view,pricing,,
+evt_003,1,"{""action"": ""purchase"", ""amount"": 99.99}",2026-02-07 10:10:00,purchase,,99.99,
+evt_005,3,"{""action"": ""click"", ""page"": ""contact""}",2026-02-07 10:20:00,click,contact,,
+evt_006,5,INVALID LOG STRING,2026-02-07 10:25:00,CORRUPT,,,
+evt_007,2,"{""action"": ""click"", ""page"": ""home""}",2026-02-07 10:30:00,click,home,,
+evt_010,1,"{""action"": ""click"", ""page"": ""home""}",2026-02-07 11:00:00,click,home,,

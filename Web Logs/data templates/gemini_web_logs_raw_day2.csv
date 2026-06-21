@@ -1,0 +1,7 @@
+event_id,uid,info,ts
+evt_001,1,"{""action"": ""click"", ""page"": ""home""}",2026-02-07 10:00:00
+evt_002,2,"{""action"": ""view"", ""page"": ""pricing""}",2026-02-07 10:05:00
+evt_011,1,"{""action"": ""click"", ""page"": ""checkout""}",2026-02-08 09:00:00
+evt_012,4,"{""action"": ""logout""}",2026-02-08 09:15:00
+evt_013,2,"{""action"": ""purchase"", ""amount"": 45.00}",2026-02-08 09:30:00
+evt_014,5,"{""action"": ""view"", ""page"": ""settings""}",2026-02-07 23:55:00

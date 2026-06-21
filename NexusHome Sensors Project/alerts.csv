@@ -1,0 +1,2 @@
+sensor_id,ts,reading_type,value,processed_at,source_batch,battery_level
+S01,2026-02-11 08:00:00,temp,500.0,2026-02-10 15:55:56.645348,day4_corrupt.csv,0.8

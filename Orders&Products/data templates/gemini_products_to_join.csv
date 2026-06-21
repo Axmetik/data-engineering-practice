@@ -1,0 +1,7 @@
+product_id,product_name,category,base_price
+P001,Coffee Maker,Kitchen,89.99
+P002,Electric Kettle,Kitchen,25.0
+P003,Toaster,Kitchen,35.5
+P004,Blender,Appliances,50.0
+P005,Air Fryer,Appliances,120.0
+P006,Microwave,Appliances,150.0

@@ -1,0 +1,7 @@
+tx_id,cust_id,amount,timestamp,country,tier,fee,is_fraud_flag
+TX101,C01,500.0,2026-02-10 14:00:00,UK,Gold,0.0,False
+TX102,C02,20.0,2026-02-10 14:05:00,USA,Silver,0.4,False
+TX103,C03,1500.0,2026-02-10 14:10:00,Germany,Gold,0.0,False
+TX104,C01,1200.0,2026-02-10 15:00:00,UK,Gold,0.0,False
+TX107,C05,10000.0,2026-02-10 16:00:00,USA,Silver,200.0,True
+TX108,C01,5.0,2026-02-10 16:30:00,UK,Gold,0.0,False

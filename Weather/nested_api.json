@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "city": "London",
+      "forecast": {
+        "hourly": [
+          {
+            "type": "temp",
+            "value": 12
+          },
+          {
+            "type": "humidity",
+            "value": 82
+          }
+        ]
+      }
+    }
+  ]
+}

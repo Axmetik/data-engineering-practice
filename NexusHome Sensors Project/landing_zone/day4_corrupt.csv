@@ -1,0 +1,5 @@
+sensor_id,ts,reading_type,value,battery_level
+S01,2026-02-11 08:00,temp,500.0,0.8
+,2026-02-11 08:05,temp,22.1,0.75
+S03,2026-02-11 09:00,energy,-10.0,0.9
+S05,Invalid_Date,temp,20.0,0.88

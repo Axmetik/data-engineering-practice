@@ -1,0 +1,5 @@
+type,value,unit,city,coordinates.lat,coordinates.lon,temp_c,generated_at
+temp,12,C,London,51.5074,-0.1278,12.0,2026-02-11 10:00:00+00:00
+humidity,82,%,London,51.5074,-0.1278,,2026-02-11 10:00:00+00:00
+temp,54,F,New York,40.7128,-74.006,12.2,2026-02-11 10:00:00+00:00
+humidity,60,%,New York,40.7128,-74.006,,2026-02-11 10:00:00+00:00

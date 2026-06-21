@@ -1,0 +1,7 @@
+user_id,signup_date,email,is_active
+1,2025-01-01,alpha@mail.com,True
+2,2025-01-15,beta@mail.com,True
+3,2025-02-01,gamma@mail.com,False
+4,2025-02-10,delta@mail.com,True
+5,2025-02-20,epsilon@mail.com,True
+6,2026-01-01,zeta@mail.com,True
